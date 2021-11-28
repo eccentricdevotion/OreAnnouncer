@@ -1,0 +1,10 @@
+author: eccentric_nz
+description: Announce ores
+main: me.eccentric_nz.oreannouncer.OreAnnouncer
+name: OreAnnouncer
+load: POSTWORLD
+version: 1.0.0
+api-version: 1.18
+website: http://tardisjenkins.duckdns.org:8080/
+
+
